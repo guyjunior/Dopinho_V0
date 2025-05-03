@@ -50,6 +50,3 @@ Para mais informações ou dúvidas, entre em contato:
 - **LinkedIn**: (https://www.linkedin.com/in/guyjuniorti/)
 
 ---
-
-## Artigo
-Disponível em: https://github.com/guyjunior/LogicafuzzyAndR2/blob/main/Trabalho_Disciplina_Ciencia_de_Dados.pdf
